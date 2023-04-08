@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amol93872
-- 👀 I’m interested in java programming 
-- 🌱 I’m currently learning master of science 
+- 👀 I’m interested in WEB DEVELOPER WITH BOOTSTRAP
+- 🌱 I’m currently learning master of science  IN CS
 - 💞️ I’m looking to collaborate on coding
 
 
