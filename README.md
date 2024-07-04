@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amol93872
-- 👀 I’m interested in WEB DEVELOPER WITH BOOTSTRAP
-- 🌱 I’m currently learning master of science  IN CS
+- 👀 I’m Teaching HTML CSS BOOTSTRAP JAVASCRIPT WITH REACT REDUX & PYTHON WITH DJANGO FREAMWORK FOR WEB DEV AND OTHERS IN AI WITH PYTHON 
+- 🌱 Fully Computer Background Teacher BSc cs & Msc Cs / CBSE Board Teacher.
 - 💞️ I’m looking to collaborate on coding
 
 
